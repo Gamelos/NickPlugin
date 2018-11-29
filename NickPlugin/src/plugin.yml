@@ -1,0 +1,8 @@
+name: Nick
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.nick.Main
+
+commands:
+  nick:
